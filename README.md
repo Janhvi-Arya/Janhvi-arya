@@ -25,9 +25,9 @@
 
 <br/>
 
-<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="girl coding gif"/>
 
 ## 🌸 Hey there, I'm Janhvi!
+<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="girl coding gif"/>
 
 > *"From wiring networks to architecting clouds — every skill I've built has led me here."*
 
